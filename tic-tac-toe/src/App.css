@@ -1,0 +1,19 @@
+.box{
+    height:300px;
+    width: 300px;
+}
+button{
+    height: 100px;
+    width: 100px;
+}
+.winner-status{
+    border: 2px black solid;
+    background-color: grey;
+    margin-top: 20px;
+    text-align: center;
+}
+.reset{
+    padding: 2px;
+    margin: 15px;
+    margin-left: 100px;
+}
