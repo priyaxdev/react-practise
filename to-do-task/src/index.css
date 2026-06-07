@@ -1,0 +1,44 @@
+body {
+  background-color: #0d1b2a !important;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.app {
+  width: 700px;
+  margin: 2rem auto;
+  background-color: #1b2838;
+  border: 1px solid #2a3f5f;
+  color: #f5f0e8;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  
+}
+.btn{
+  margin-left: 5px;
+}
+
+.tsk{
+  margin-top:20px ;
+  display: flex;
+  justify-content: space-evenly;
+}
+.analysis{
+  padding: 5px;
+  font-size: 20px !important;
+  color: #f5f0e8 !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  background-color: #0d1b2a !important;
+}
+.lst{
+  background-color: #0d1b2a !important;
+  color: #f5f0e8 !important;
+  margin: 3px;
+  border: none;
+  
+}
+.mlst{
+  margin-top: 10px;
+}
