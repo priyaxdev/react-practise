@@ -109,6 +109,7 @@ A game where users can play against the computer.
 
 ### 💰 Expense Tracker
 
+<img width="2940" height="1490" alt="image" src="https://github.com/user-attachments/assets/57344831-4520-41ba-ad88-469f40a38739" />
 
 ---
 
